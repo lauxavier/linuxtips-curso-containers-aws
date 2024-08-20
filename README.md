@@ -1,2 +1,2 @@
-# linuxtips-curso-containers-aws
-Repositório do Curso de Arquitetura de Containers na AWS da LinuxTips
+# Repositório do Curso de Arquitetura de Containers na AWS da LinuxTips
+

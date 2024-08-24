@@ -1,4 +1,4 @@
-# Repositório do Curso de Arquitetura de Containers na AWS da LinuxTips
+# Curso de Arquitetura de Containers na AWS da LinuxTips
 
 | Index das aulas - anotações e exercícios                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------|
